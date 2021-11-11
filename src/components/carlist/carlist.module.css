@@ -1,0 +1,25 @@
+.car_list_holder {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 15px 20px;
+    padding: 20px 15px;
+    box-sizing: border-box;
+}
+
+.car_img img{
+    width: 100px;
+    height: 100px;
+    
+    margin-right: 50px;
+}
+
+.border {
+    width: 100vw;
+    height: 2px;
+    background-color: gray;
+}
+
+button {
+    background-color: green;
+}
